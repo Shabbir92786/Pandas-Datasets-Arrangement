@@ -1,2 +1,2 @@
 # Pandas-Datasets-Arrangement
-How to create dataset using PANDAS
+How to arrange dataset using PANDAS
